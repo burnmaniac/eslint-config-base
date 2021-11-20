@@ -1,0 +1,16 @@
+{
+    "name": "@burnmaniac/eslint-config-base",
+    "version": "1.0.0",
+    "description": "ESLint configuration for JavaScript projects",
+    "main": "index.js",
+    "author": "Danijel Obradovic",
+    "license": "MIT",
+    "devDependencies": {
+        "@babel/core": "^7.16.0",
+        "@babel/eslint-parser": "^7.16.0",
+        "eslint": "^8.1.0",
+        "eslint-plugin-import": "^2.25.2",
+        "eslint-plugin-jsdoc": "^37.0.3",
+        "eslint-plugin-node": "^11.1.0"
+    }
+}
